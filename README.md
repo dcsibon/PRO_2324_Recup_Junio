@@ -233,3 +233,5 @@ Se construirá en base a la información anterior.
 * **Conlleva la entrega de URL a repositorio:** El contenido se entregará en un repositorio github, y en caso de creerlo necesario se trabajará por proyectos dejando constancia de las acciones realizas según cada uno de los perfiles de los usuarios del grupo.
 * **Conlleva la entrega de capturas de pantallas de las distintas opciones:** Se entregará un documento (markdown en la raíz del repositorio con nombre Recu_PRO_<Iniciales>.md) que contendrán capturas de pantalla de las distintas ejecuciones del programa, mostrando aquellas que funcionan correctamente. *Solo se pasará a evaluar aquellas que tengan una captura de pantalla sobre su funcionamiento*.
 * **Conlleva la entrega un ejecutable del programa:** Se tendrá que entregar un enlace al ejecutable del programa, de forma que se pueda probar sin necesidad de ejecutar el IDE. Este enlace estará en un documento (markdown en la raíz del repositorio).
+
+Descarga mi app desde la APK siguiente: [BeautifulDay](prueba/p1.pdf)
